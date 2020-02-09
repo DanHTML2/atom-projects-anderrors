@@ -1,0 +1,40 @@
+<!doctype html>
+  <html>
+<head>
+  <title>Daniels Code</title>
+</head>
+    <body>
+      <h1>My HTML introduction</h1>
+        <font col="30px" row="30">Hi my name is Daniel and I am a professional coder.
+          Some of the programming languages I use is <strong>HTML</strong> and <strong>CSS </strong>because I like
+          the simple layout of it. I both enjoy these two because
+          they are both very easy to communicate with and learn to. My favorite is CSS because
+          there are many different kinds of styles and colors to edit your html and attributes.
+          I reccomened this programming language a lot because it has good features for different
+          people. I also not this do coding I do mostly share codes on github like</font>
+            <strong>respotories</strong> and other types of feautres I post and do.
+              <h2>Plans & challenges throughout my Life</h2>
+                <i>Throught my life, I like to express it in several ways. Some of the things I challenge
+                is living with big family. Almost 20 people every week always ask me
+              if my brother julian is really my brother. Well accorse yes, as me and
+            julian grew up we would always like to dance around a poop all over the place
+          I even had pictures. Eversense I grew up my pears, a whole bunch of people asked me why.
+        Well me and julian are futernal twins. Futernal twins make us a big part. It is
+      almost like living with different personalities. Which it is. Fertinal twins are
+    twins that are almost equally apart from each other. My brother has black hair
+  and my own hair is blonde. Wow what a difference. Cant you believe two twins can
+have different perosnalities and opposite genetics. That is one of them. Living with my brother
+is fun, we both like to ride bikes at my friends houses and around my neighborhood. It is sure really fun
+living with anyone not fact. But I <strong>STILL</strong> him no matter what.</i>
+    <h3>Current <strong>Websites</strong> and
+       <strong>Channels</strong>
+        </h3>
+          <br>
+            <i>Youtube:</i>
+                <a href="https://www.youtube.com/channel/UCljTKnK1LSsBBGSBJKcqZYw?view_as=subscriber">
+                  WWW.YOUTBE.COM</a>
+                    <br>
+                    <i>github:</i>
+                      <a href="https://github.com/DanHTML2/atom-projects-anderrors/new/master">GITHUB.COM</a>
+          </body>
+        </html>       
